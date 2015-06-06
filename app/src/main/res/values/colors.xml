@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFDFEAF1</color>
+    <color name="udacity_button_background">#F08C35</color>
+    <color name="capstone_button_background">#D73357</color>
+</resources>
